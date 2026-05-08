@@ -1,0 +1,9 @@
+{
+  "warning_paths": [
+    "lib/basal-set-temp.js",
+    "lib/calculate-iob/",
+    "lib/glucose-get-last.js",
+    "lib/meal/total.js",
+    "tests/"
+  ]
+}

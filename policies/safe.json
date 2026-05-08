@@ -1,0 +1,13 @@
+{
+  "safe_paths": [
+    "README.md",
+    "CONTRIBUTING.md",
+    "LICENSE.txt",
+    "www/",
+    "examples/",
+    ".github/",
+    "logrotate",
+    ".eslintrc.js",
+    "package.json"
+  ]
+}

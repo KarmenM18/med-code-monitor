@@ -1,0 +1,15 @@
+{
+  "critical_files": [
+    "lib/determine-basal/determine-basal.js",
+    "lib/profile/index.js",
+    "bin/oref0-determine-basal.js"
+  ],
+
+  "critical_variables": [
+    "max_iob",
+    "max_daily_safety_multiplier",
+    "current_basal_safety_multiplier",
+    "autosens_max",
+    "autosens_min"
+  ]
+}
